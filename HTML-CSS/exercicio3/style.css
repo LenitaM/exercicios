@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Courier New', monospace;
+    background-image: url(/img/2retro.jpg);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+.cabecalho {
+    text-align: center;
+}
+.container-flex-1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+.box-1, .box-2, .buttons {
+   border-radius: 8px;
+     
+}
+.container-flex-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    height: 350px;
+    gap: 4px;
+    
+}
+.card-1, .card-2, .card-3, .card-4 {
+    padding: 8px;
+    border-radius: 8px;
+    width: 250px;
+    border: 1px solid;
+}
+.my-table {
+    border: 1px solid;
+}
+.my-table, th, td {
+    border: 1px solid;
+}
+.card-1 {
+    background-color: antiquewhite;
+
+}
+.card-2 {
+    background-color: antiquewhite;
+
+}
+.card-3 {
+    background-color: antiquewhite;
+
+}
+.card-4 {
+    background-color: antiquewhite;
+
+}

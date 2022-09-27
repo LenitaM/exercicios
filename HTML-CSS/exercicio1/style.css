@@ -1,0 +1,33 @@
+h3 {
+    background-color: green;
+    text-align: center;
+}
+.box1 {
+    background-color: aliceblue;
+    padding: 50px;
+    margin: 18px;
+    border-radius: 10px;
+}
+.box2 {
+    background-color: aliceblue;
+    padding: 16px;
+    margin: 18px;
+    border-radius: 10px;
+}
+.gallery { 
+    
+    text-align: center;
+   
+ 
+}
+.desc {
+    text-align: center;
+
+}
+.gallery2 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(102, 136, 102);
+}
